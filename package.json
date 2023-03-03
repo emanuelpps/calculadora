@@ -1,6 +1,6 @@
 {
-  "name": "calculatorapp",
-  "homepage": "https://emanuelpps.github.io/calculadora/",
+  "name": "calculadora",
+  "homepage": "https://emanuelpps.github.io/calculadora",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
